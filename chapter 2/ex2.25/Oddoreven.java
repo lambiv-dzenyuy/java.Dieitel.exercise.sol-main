@@ -9,7 +9,7 @@ public class Oddoreven {
     {
 
         //creating a scanner to read input from the command line
-        Scanner input=new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
         int number;//number to verified if even or odd
 

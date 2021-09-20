@@ -1,0 +1,10 @@
+In the AccountTest class of Fig. 3.9, method
+contains six statements (lines 13–14, 15–16, 28–29, 30–31, 40–41 and 42–43) that each dis-
+play an Account object’s name and balance . Study these statements and you’ll notice that they differ
+only in the Account object being manipulated— account1 or account2 . In this exercise, you’ll define
+a new displayAccount method that contains one copy of that output statement. The method’s pa-
+rameter will be an Account object and the method will output the object’s name and balance . You’ll
+then replace the six duplicated statements in main with calls to displayAccount , passing as an argu-
+ment the specific Account object to output.
+Modify class AccountTest class of Fig. 3.9 to declare the following displayAccount method
+after the closing right brace of main and before the closing right brace of class AccountTest :

@@ -2,3 +2,5 @@
 ./*/description
 java.*
 out/*
+.classpath
+.project

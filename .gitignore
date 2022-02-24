@@ -1,2 +1,4 @@
 .vscode
 ./*/description
+java.*
+out/*

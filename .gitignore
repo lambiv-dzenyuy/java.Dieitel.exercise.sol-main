@@ -1,6 +1,8 @@
 .vscode
-./*/description
+*/description
 java.*
 out/*
 .classpath
 .project
+.idea
+

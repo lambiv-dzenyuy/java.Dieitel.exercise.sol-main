@@ -1,4 +1,4 @@
-package chapter10.ex10.fifteen;
+package chapter_10.ex10.fifteen;
 
 // SalariedEmployee class that implements interface Payable.
 // method getPaymentAmount.

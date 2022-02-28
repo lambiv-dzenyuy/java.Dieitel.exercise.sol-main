@@ -1,4 +1,4 @@
-package chapter10.ex10.thirteen;
+package chapter_10.ex10.thirteen;
 
 public class Circle extends TwoDimensionalShape{
     private double radius; //radius of the circle

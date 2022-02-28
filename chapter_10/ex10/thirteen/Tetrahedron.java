@@ -1,4 +1,4 @@
-package chapter10.ex10.thirteen;
+package chapter_10.ex10.thirteen;
 
 public class Tetrahedron extends ThreeDimensionalShape{
     private double sideLength; // width of each side of the cube

@@ -1,4 +1,4 @@
-package chapter10.ex10.thirteen;
+package chapter_10.ex10.thirteen;
 
 public class Square extends TwoDimensionalShape{
     private double side; // dimension of one side of the square

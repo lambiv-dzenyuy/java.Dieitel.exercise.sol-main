@@ -1,4 +1,4 @@
-package chapter10.ex10.fourteen;
+package chapter_10.ex10.fourteen;
 
 public class PieceWorker extends Employee{
     private double wage; // wage per piece sold

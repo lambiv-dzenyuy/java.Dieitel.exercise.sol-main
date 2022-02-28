@@ -1,4 +1,4 @@
-package chapter10.ex10.sixteen;
+package chapter_10.ex10.sixteen;
 
 public interface Payable 
 {    

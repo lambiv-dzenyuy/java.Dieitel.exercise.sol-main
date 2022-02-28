@@ -1,4 +1,4 @@
-package chapter10.ex10.thirteen;
+package chapter_10.ex10.thirteen;
 
 public class Sphere extends ThreeDimensionalShape{
 

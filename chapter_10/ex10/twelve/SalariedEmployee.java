@@ -1,4 +1,4 @@
-package chapter10.ex10.twelve;
+package chapter_10.ex10.twelve;
 
 public class SalariedEmployee extends Employee 
 {
